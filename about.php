@@ -3,7 +3,6 @@
 		<head>
 			<meta charset="UTF-8">
 			<title>Антон</title>
-
 			<style type="text/css">
 
 				body{
@@ -47,12 +46,12 @@
 		</head>
 		<body>
 			<?php
-						$title		= 'Страница пользователя Антон';
-		 				$firstName  = 'Антон';
-		 				$Age		= '16';
-		 				$City		= 'Москва';
-		 				$Email		= 'itsoluution@gmail.com';
-		 				$aboutMe	= 'Учусь на курсе Нетологии (PHP/SQL: back-end разработка и базы данных) ';
+				$title		= 'Страница пользователя Антон';
+		 		$firstName	= 'Антон';
+		 		$Age		= '16';
+		 		$City		= 'Москва';
+		 		$Email		= 'itsoluution@gmail.com';
+		 		$aboutMe	= 'Учусь на курсе Нетологии (PHP/SQL: back-end разработка и базы данных) ';
 			?>
 			<div class="container">
 				<div class="title">
